@@ -1,6 +1,6 @@
 # Daniel Angel - Danielangel22.
 
-## Hola que tal? 👋
+## Hola, Que tal? 👋
 
 ```
 Bienvenido a mi github, me considero una persona apasionada por el desarrollo de software y la tecnología en general,
