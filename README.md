@@ -1,4 +1,6 @@
 # Daniel Angel - Danielangel22.
+![](https://komarev.com/ghpvc/?username=Danielangel22&color=green)
+
 
 ## Hola, Que tal? 👋
 
