@@ -78,4 +78,4 @@ class Skills extends SoftwareDeveloper {
 
 <!-- YOUTUBE:END -->
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/CodeReview?sub_confirmation=1)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCRDsrn3PX9eJdqH74Zo6eFA?sub_confirmation=1)
