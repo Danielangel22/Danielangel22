@@ -1,23 +1,81 @@
-# Daniel Angel - Danielangel22.
-![](https://komarev.com/ghpvc/?username=Danielangel22&color=green)
+<h1> Welcome to Daniel Angel's profile!</h1>
 
+***
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/daniel-angel-6a7710187/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://twitter.com/Daniel_A_Angel?s=09"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "mailto:alexandermo1233@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCRDsrn3PX9eJdqH74Zo6eFA/featured"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
 
-## Hola, Que tal? 👋
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=danielangel22&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danielangel22" />
+  </a>
+  <p>
+    <img src="https://views.whatilearened.today/views/github/Danielangel22/views.svg"/>
+    <a href="https://github.com/Danielangel22?tab=followers"><img src="https://img.shields.io/github/followers/Danielangel22?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/Danielangel22?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+  </p>
+</p>
+<br/><br/>
+
+<!--
+**kaizoku-oh/kaizoku-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+```java
+import SoftwareDeveloper.Danielangel22;
+
+class Bio extends SoftwareDeveloper {
+  private string name = "Daniel Angel";
+  private string title = 'Backend Developer | Mid-Senior';
+  private string company  = 'Elaniin Tech Company | Remote';
+  private string location = 'El Salvador, CA';
+}
+
+class Skills extends SoftwareDeveloper {
+  private string languages  = {"Java", "PHP", "JS" "Python"};
+  private string frontendLanguages  = {"Htlm", "Css", "JS"};
+  private string databases  = {"MySQL", "MongoDB", "PostgreSQL", "Oracle", "Sqlite", "Sysbase", "SQL server"};
+  private string frameworks = {"Spring boot", "Laravel", "Angular", "Django"};
+}
 
 ```
-Bienvenido a mi github, me considero una persona apasionada por el desarrollo de software y la tecnología en general,
-sobre todo enfocada al backend y servicios Rest Api aunque tambien megusta el desarrollo web.
+## 🔧 Tools
 
-Me encuentro en constante desarrollo personal 🚧 trabajando en proyectos que no solo se limitan al backend
-y explorando nuevas maneras de combinar mi conocimiento para crear software de calidad.
-```
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![PHP](https://img.icons8.com/color/30/php.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![Java](https://img.icons8.com/color/30/java.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
+![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![AngularJS](https://img.icons8.com/color/30/angularjs.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
+![Console](https://img.icons8.com/color/30/console.png)
+![Docker](https://img.icons8.com/color/30/docker.png)
 
-  * 🚀 Actualmente soy Java Developer en <a href="https://elaniin.com/">  @Elaniin <a/>
-  * 💚 Trabajo con tecnologías como Spring Framework y Docker.<a href="https://www.java.com/es/">
-  <img src="https://user-images.githubusercontent.com/49423514/116825136-27967200-ab4b-11eb-9ca3-df996035e98f.png" alt="Logo" width="20" height="20"><a/>
-  <a href="https://spring.io/"><img src="https://user-images.githubusercontent.com/49423514/116825164-3ed55f80-ab4b-11eb-85a8-8157aa6c8979.png" alt="Logo2" width="20" height="20">   <a/>
-    
-    
-## Contacto
-   * <a href="https://www.linkedin.com/in/daniel-angel-morales-6a7710187/">My profile Linkendin<a/>
-   * <a href="https://www.youtube.com/channel/UCRDsrn3PX9eJdqH74Zo6eFA/featured">My youtube channel<a/>. --> _aqui comparto uno que otro video que le podria servir a alguien :)_
+## 📺 Recommended youtube playlist.
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+
+<!-- YOUTUBE:START -->
+[![Creando anotación @TrackTime en Spring Boot](https://img.youtube.com/vi/s5gvbvQA9RE/0.jpg)](https://www.youtube.com/playlist?list=PLYLDZy0IuGzIJ_iQ6cTxyrU_YWgNsC5Xu)
+
+<!-- YOUTUBE:END -->
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/CodeReview?sub_confirmation=1)
