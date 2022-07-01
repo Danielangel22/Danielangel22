@@ -4,16 +4,15 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/daniel-angel-6a7710187/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://twitter.com/Daniel_A_Angel?s=09"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://twitter.com/Daniel_A_Angel?s=09"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
   <a href= "mailto:alexandermo1233@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
   <a href= "https://www.youtube.com/channel/UCRDsrn3PX9eJdqH74Zo6eFA/featured"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=danielangel22&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danielangel22" />
-  </a>
+ 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielangel22&theme=tokyonight)
   <p>
     <img src="https://views.whatilearened.today/views/github/Danielangel22/views.svg"/>
     <a href="https://github.com/Danielangel22?tab=followers"><img src="https://img.shields.io/github/followers/Danielangel22?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -38,7 +37,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  private string languages  = {"Java", "PHP", "JS" "Python"};
+  private string languages  = {"Java", "kotlin", "PHP", "JS", "TypeScript", "Python"};
   private string frontendLanguages  = {"Htlm", "Css", "JS"};
   private string databases  = {"MySQL", "MongoDB", "PostgreSQL", "Oracle", "Sqlite", "Sysbase", "SQL server"};
   private string frameworks = {"Spring boot", "Laravel", "Angular", "Django"};
@@ -67,15 +66,3 @@ class Skills extends SoftwareDeveloper {
 ![Console](https://img.icons8.com/color/30/console.png)
 ![Docker](https://img.icons8.com/color/30/docker.png)
 
-## 📺 Recommended youtube playlist.
-
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-
-<!-- YOUTUBE:START -->
-[![Creando anotación @TrackTime en Spring Boot](https://img.youtube.com/vi/s5gvbvQA9RE/0.jpg)](https://www.youtube.com/playlist?list=PLYLDZy0IuGzIJ_iQ6cTxyrU_YWgNsC5Xu)
-
-<!-- YOUTUBE:END -->
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCRDsrn3PX9eJdqH74Zo6eFA?sub_confirmation=1)
